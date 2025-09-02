@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Astro.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Astro.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AstroEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Astro">
+      <UniqueIdentifier>{41FFE6F5-973A-3ADC-9E98-530F5C503F3C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Astro\Astro.Build.cs">
+      <Filter>Source\Astro</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Astro\Astro.cpp">
+      <Filter>Source\Astro</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Astro\Astro.h">
+      <Filter>Source\Astro</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Astro\AstroCameraManager.cpp">
+      <Filter>Source\Astro</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Astro\AstroCameraManager.h">
+      <Filter>Source\Astro</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Astro\AstroCharacter.cpp">
+      <Filter>Source\Astro</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Astro\AstroCharacter.h">
+      <Filter>Source\Astro</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Astro\AstroGameMode.cpp">
+      <Filter>Source\Astro</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Astro\AstroGameMode.h">
+      <Filter>Source\Astro</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Astro\AstroPlayerController.cpp">
+      <Filter>Source\Astro</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Astro\AstroPlayerController.h">
+      <Filter>Source\Astro</Filter>
+    </ClInclude>
+    <Filter Include="Source\Astro\Variant_Horror">
+      <UniqueIdentifier>{0F25A165-9E6C-33B2-93A5-C9393F48AE99}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Astro\Variant_Horror\HorrorCharacter.cpp">
+      <Filter>Source\Astro\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Astro\Variant_Horror\HorrorCharacter.h">
+      <Filter>Source\Astro\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Astro\Variant_Horror\HorrorGameMode.cpp">
+      <Filter>Source\Astro\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Astro\Variant_Horror\HorrorGameMode.h">
+      <Filter>Source\Astro\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Astro\Variant_Horror\HorrorPlayerController.cpp">
+      <Filter>Source\Astro\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Astro\Variant_Horror\HorrorPlayerController.h">
+      <Filter>Source\Astro\Variant_Horror</Filter>
+    </ClInclude>
+    <Filter Include="Source\Astro\Variant_Horror\UI">
+      <UniqueIdentifier>{75CB3B2C-FE5A-37CD-BB98-BEDB8AC8FCFC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Astro\Variant_Horror\UI\HorrorUI.cpp">
+      <Filter>Source\Astro\Variant_Horror\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Astro\Variant_Horror\UI\HorrorUI.h">
+      <Filter>Source\Astro\Variant_Horror\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\Astro\Variant_Shooter">
+      <UniqueIdentifier>{D93CF989-9FDC-3DC3-9E1F-6A83CE6BA9FD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Astro\Variant_Shooter\ShooterCharacter.cpp">
+      <Filter>Source\Astro\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Astro\Variant_Shooter\ShooterCharacter.h">
+      <Filter>Source\Astro\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Astro\Variant_Shooter\ShooterGameMode.cpp">
+      <Filter>Source\Astro\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Astro\Variant_Shooter\ShooterGameMode.h">
+      <Filter>Source\Astro\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Astro\Variant_Shooter\ShooterPlayerController.cpp">
+      <Filter>Source\Astro\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Astro\Variant_Shooter\ShooterPlayerController.h">
+      <Filter>Source\Astro\Variant_Shooter</Filter>
+    </ClInclude>
+    <Filter Include="Source\Astro\Variant_Shooter\AI">
+      <UniqueIdentifier>{05142290-77E1-3F0D-8161-F96C82AAC0E4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Astro\Variant_Shooter\AI\EnvQueryContext_Target.cpp">
+      <Filter>Source\Astro\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Astro\Variant_Shooter\AI\EnvQueryContext_Target.h">
+      <Filter>Source\Astro\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Astro\Variant_Shooter\AI\ShooterAIController.cpp">
+      <Filter>Source\Astro\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Astro\Variant_Shooter\AI\ShooterAIController.h">
+      <Filter>Source\Astro\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Astro\Variant_Shooter\AI\ShooterNPC.cpp">
+      <Filter>Source\Astro\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Astro\Variant_Shooter\AI\ShooterNPC.h">
+      <Filter>Source\Astro\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Astro\Variant_Shooter\AI\ShooterStateTreeUtility.cpp">
+      <Filter>Source\Astro\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Astro\Variant_Shooter\AI\ShooterStateTreeUtility.h">
+      <Filter>Source\Astro\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\Astro\Variant_Shooter\UI">
+      <UniqueIdentifier>{22A2D886-9F31-35BE-81C6-8021711C75DB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Astro\Variant_Shooter\UI\ShooterBulletCounterUI.cpp">
+      <Filter>Source\Astro\Variant_Shooter\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Astro\Variant_Shooter\UI\ShooterBulletCounterUI.h">
+      <Filter>Source\Astro\Variant_Shooter\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Astro\Variant_Shooter\UI\ShooterUI.cpp">
+      <Filter>Source\Astro\Variant_Shooter\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Astro\Variant_Shooter\UI\ShooterUI.h">
+      <Filter>Source\Astro\Variant_Shooter\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\Astro\Variant_Shooter\Weapons">
+      <UniqueIdentifier>{9AD89A38-75EF-3163-AC69-7FCB6A0C2990}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Astro\Variant_Shooter\Weapons\ShooterPickup.cpp">
+      <Filter>Source\Astro\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Astro\Variant_Shooter\Weapons\ShooterPickup.h">
+      <Filter>Source\Astro\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Astro\Variant_Shooter\Weapons\ShooterProjectile.cpp">
+      <Filter>Source\Astro\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Astro\Variant_Shooter\Weapons\ShooterProjectile.h">
+      <Filter>Source\Astro\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Astro\Variant_Shooter\Weapons\ShooterWeapon.cpp">
+      <Filter>Source\Astro\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Astro\Variant_Shooter\Weapons\ShooterWeapon.h">
+      <Filter>Source\Astro\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Astro\Variant_Shooter\Weapons\ShooterWeaponHolder.cpp">
+      <Filter>Source\Astro\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Astro\Variant_Shooter\Weapons\ShooterWeaponHolder.h">
+      <Filter>Source\Astro\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\itmo\\5 semester\\ue project\\astro\\source\\astro\\variant_shooter\\weapons\\shooterweaponholder.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\itmo\\5 semester\\ue project\\astro\\intermediate\\build\\win64\\x64\\astroeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\itmo\\5 semester\\ue project\\astro\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\astro\\definitions.astro.h",
+            "d:\\itmo\\5 semester\\ue project\\astro\\source\\astro\\variant_shooter\\weapons\\shooterweaponholder.h",
+            "d:\\itmo\\5 semester\\ue project\\astro\\intermediate\\build\\win64\\unrealeditor\\inc\\astro\\uht\\shooterweaponholder.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\itmo\\5 semester\\ue project\\astro\\source\\astro\\variant_shooter\\weapons\\shooterweapon.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\itmo\\5 semester\\ue project\\astro\\intermediate\\build\\win64\\x64\\astroeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\itmo\\5 semester\\ue project\\astro\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\astro\\definitions.astro.h",
+            "d:\\itmo\\5 semester\\ue project\\astro\\source\\astro\\variant_shooter\\weapons\\shooterweapon.h",
+            "d:\\itmo\\5 semester\\ue project\\astro\\source\\astro\\variant_shooter\\weapons\\shooterweaponholder.h",
+            "d:\\itmo\\5 semester\\ue project\\astro\\intermediate\\build\\win64\\unrealeditor\\inc\\astro\\uht\\shooterweaponholder.generated.h",
+            "d:\\itmo\\5 semester\\ue project\\astro\\intermediate\\build\\win64\\unrealeditor\\inc\\astro\\uht\\shooterweapon.generated.h",
+            "d:\\apps\\unrealengine\\5.6.1\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.h",
+            "d:\\apps\\unrealengine\\5.6.1\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetmathlibrary.generated.h",
+            "d:\\apps\\unrealengine\\5.6.1\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.inl",
+            "d:\\itmo\\5 semester\\ue project\\astro\\source\\astro\\variant_shooter\\weapons\\shooterprojectile.h",
+            "d:\\itmo\\5 semester\\ue project\\astro\\intermediate\\build\\win64\\unrealeditor\\inc\\astro\\uht\\shooterprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

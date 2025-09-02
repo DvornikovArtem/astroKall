@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\ITMO\\5 semester\\UE project\\Astro\\Source\\Astro\\Astro.Build.cs",
+		"D:\\ITMO\\5 semester\\UE project\\Astro\\Source\\Astro.Target.cs",
+		"D:\\ITMO\\5 semester\\UE project\\Astro\\Source\\AstroEditor.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

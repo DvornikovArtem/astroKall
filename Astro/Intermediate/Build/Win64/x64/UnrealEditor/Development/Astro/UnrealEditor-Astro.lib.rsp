@@ -1,0 +1,34 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Astro.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:/ITMO/5 semester/UE project/Astro/Intermediate/Build/Win64/x64/AstroEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"D:/ITMO/5 semester/UE project/Astro/Intermediate/Build/Win64/x64/UnrealEditor/Development/Astro/Module.Astro.cpp.obj"
+"D:/ITMO/5 semester/UE project/Astro/Intermediate/Build/Win64/x64/UnrealEditor/Development/Astro/Astro.cpp.obj"
+"D:/ITMO/5 semester/UE project/Astro/Intermediate/Build/Win64/x64/UnrealEditor/Development/Astro/AstroCameraManager.cpp.obj"
+"D:/ITMO/5 semester/UE project/Astro/Intermediate/Build/Win64/x64/UnrealEditor/Development/Astro/AstroCharacter.cpp.obj"
+"D:/ITMO/5 semester/UE project/Astro/Intermediate/Build/Win64/x64/UnrealEditor/Development/Astro/AstroGameMode.cpp.obj"
+"D:/ITMO/5 semester/UE project/Astro/Intermediate/Build/Win64/x64/UnrealEditor/Development/Astro/AstroPlayerController.cpp.obj"
+"D:/ITMO/5 semester/UE project/Astro/Intermediate/Build/Win64/x64/UnrealEditor/Development/Astro/HorrorCharacter.cpp.obj"
+"D:/ITMO/5 semester/UE project/Astro/Intermediate/Build/Win64/x64/UnrealEditor/Development/Astro/HorrorGameMode.cpp.obj"
+"D:/ITMO/5 semester/UE project/Astro/Intermediate/Build/Win64/x64/UnrealEditor/Development/Astro/HorrorPlayerController.cpp.obj"
+"D:/ITMO/5 semester/UE project/Astro/Intermediate/Build/Win64/x64/UnrealEditor/Development/Astro/HorrorUI.cpp.obj"
+"D:/ITMO/5 semester/UE project/Astro/Intermediate/Build/Win64/x64/UnrealEditor/Development/Astro/ShooterCharacter.cpp.obj"
+"D:/ITMO/5 semester/UE project/Astro/Intermediate/Build/Win64/x64/UnrealEditor/Development/Astro/ShooterGameMode.cpp.obj"
+"D:/ITMO/5 semester/UE project/Astro/Intermediate/Build/Win64/x64/UnrealEditor/Development/Astro/ShooterPlayerController.cpp.obj"
+"D:/ITMO/5 semester/UE project/Astro/Intermediate/Build/Win64/x64/UnrealEditor/Development/Astro/EnvQueryContext_Target.cpp.obj"
+"D:/ITMO/5 semester/UE project/Astro/Intermediate/Build/Win64/x64/UnrealEditor/Development/Astro/ShooterAIController.cpp.obj"
+"D:/ITMO/5 semester/UE project/Astro/Intermediate/Build/Win64/x64/UnrealEditor/Development/Astro/ShooterNPC.cpp.obj"
+"D:/ITMO/5 semester/UE project/Astro/Intermediate/Build/Win64/x64/UnrealEditor/Development/Astro/ShooterStateTreeUtility.cpp.obj"
+"D:/ITMO/5 semester/UE project/Astro/Intermediate/Build/Win64/x64/UnrealEditor/Development/Astro/ShooterBulletCounterUI.cpp.obj"
+"D:/ITMO/5 semester/UE project/Astro/Intermediate/Build/Win64/x64/UnrealEditor/Development/Astro/ShooterUI.cpp.obj"
+"D:/ITMO/5 semester/UE project/Astro/Intermediate/Build/Win64/x64/UnrealEditor/Development/Astro/ShooterPickup.cpp.obj"
+"D:/ITMO/5 semester/UE project/Astro/Intermediate/Build/Win64/x64/UnrealEditor/Development/Astro/ShooterProjectile.cpp.obj"
+"D:/ITMO/5 semester/UE project/Astro/Intermediate/Build/Win64/x64/UnrealEditor/Development/Astro/ShooterWeapon.cpp.obj"
+"D:/ITMO/5 semester/UE project/Astro/Intermediate/Build/Win64/x64/UnrealEditor/Development/Astro/ShooterWeaponHolder.cpp.obj"
+"D:/ITMO/5 semester/UE project/Astro/Intermediate/Build/Win64/x64/UnrealEditor/Development/Astro/Default.rc2.res"
+/OUT:"D:/ITMO/5 semester/UE project/Astro/Intermediate/Build/Win64/x64/UnrealEditor/Development/Astro/UnrealEditor-Astro.lib"

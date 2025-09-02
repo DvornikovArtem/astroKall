@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Astro",
+			"Path": "..\\Source\\Astro.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AstroEditor",
+			"Path": "..\\Source\\AstroEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
